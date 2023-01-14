@@ -1,0 +1,12 @@
+surprise
+sklearn
+scipy
+pandas
+numpy
+ast
+nltk
+matplotlib
+plotly
+wordcloud
+seaborn
+tkinter
