@@ -24,6 +24,11 @@ git clone https://github.com/scanfMyName/Movie-Recommendation-Model-GUI-represen
 ```
 
 2. Install the required packages
+ I recommend you to please check the requirements.txt and update the name of the actual library in place of name of its classes e.g. I have written tkinter in place of tk and sklearn in place of scikit-learn . Also now ast is by default available in python.(In my case it is python version 3.11.3 and it is there, you can check for other versions also). If you are getting error in case of downloading surprise try for "scikit-surprise" if also you are getting error like:
+"Building wheel for scikit-surprise (setup.py): finished with status 'error'
+  Running setup.py clean for scikit-surprise
+Failed to build scikit-surprise"
+You can try this blog https://stackoverflow.com/questions/65679417/getting-errors-while-installing-surprise-package 
 
 ```
 pip install -r requirements.txt
