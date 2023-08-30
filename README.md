@@ -30,6 +30,7 @@ git clone https://github.com/scanfMyName/Movie-Recommendation-Model-GUI-represen
 Failed to build scikit-surprise"
 You can try this blog https://stackoverflow.com/questions/65679417/getting-errors-while-installing-surprise-package 
 
+For the database visit this link:https://drive.google.com/drive/u/0/folders/1RiBTdvvjZkuSLIt1ZZDTz9UH7EZLHYX-
 ```
 pip install -r requirements.txt
 ```
